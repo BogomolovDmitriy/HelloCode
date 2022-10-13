@@ -1,0 +1,15 @@
+D:\Programs\Обучение программированию\Новая папка\Example006_base\obj\Debug\net6.0\Example006_base.csproj.AssemblyReference.cache
+D:\Programs\Обучение программированию\Новая папка\Example006_base\obj\Debug\net6.0\Example006_base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Обучение программированию\Новая папка\Example006_base\obj\Debug\net6.0\Example006_base.AssemblyInfoInputs.cache
+D:\Programs\Обучение программированию\Новая папка\Example006_base\obj\Debug\net6.0\Example006_base.AssemblyInfo.cs
+D:\Programs\Обучение программированию\Новая папка\Example006_base\obj\Debug\net6.0\Example006_base.csproj.CoreCompileInputs.cache
+D:\Programs\Обучение программированию\Новая папка\Example006_base\bin\Debug\net6.0\Example006_base.exe
+D:\Programs\Обучение программированию\Новая папка\Example006_base\bin\Debug\net6.0\Example006_base.deps.json
+D:\Programs\Обучение программированию\Новая папка\Example006_base\bin\Debug\net6.0\Example006_base.runtimeconfig.json
+D:\Programs\Обучение программированию\Новая папка\Example006_base\bin\Debug\net6.0\Example006_base.dll
+D:\Programs\Обучение программированию\Новая папка\Example006_base\bin\Debug\net6.0\Example006_base.pdb
+D:\Programs\Обучение программированию\Новая папка\Example006_base\obj\Debug\net6.0\Example006_base.dll
+D:\Programs\Обучение программированию\Новая папка\Example006_base\obj\Debug\net6.0\refint\Example006_base.dll
+D:\Programs\Обучение программированию\Новая папка\Example006_base\obj\Debug\net6.0\Example006_base.pdb
+D:\Programs\Обучение программированию\Новая папка\Example006_base\obj\Debug\net6.0\Example006_base.genruntimeconfig.cache
+D:\Programs\Обучение программированию\Новая папка\Example006_base\obj\Debug\net6.0\ref\Example006_base.dll
