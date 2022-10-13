@@ -1,0 +1,15 @@
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\bin\Debug\net6.0\Example_IF_ELSE.exe
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\bin\Debug\net6.0\Example_IF_ELSE.deps.json
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\bin\Debug\net6.0\Example_IF_ELSE.runtimeconfig.json
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\bin\Debug\net6.0\Example_IF_ELSE.dll
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\bin\Debug\net6.0\Example_IF_ELSE.pdb
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\obj\Debug\net6.0\Example_IF_ELSE.csproj.AssemblyReference.cache
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\obj\Debug\net6.0\Example_IF_ELSE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\obj\Debug\net6.0\Example_IF_ELSE.AssemblyInfoInputs.cache
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\obj\Debug\net6.0\Example_IF_ELSE.AssemblyInfo.cs
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\obj\Debug\net6.0\Example_IF_ELSE.csproj.CoreCompileInputs.cache
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\obj\Debug\net6.0\Example_IF_ELSE.dll
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\obj\Debug\net6.0\refint\Example_IF_ELSE.dll
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\obj\Debug\net6.0\Example_IF_ELSE.pdb
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\obj\Debug\net6.0\Example_IF_ELSE.genruntimeconfig.cache
+D:\Programs\Обучение программированию\Новая папка\Example_IF_ELSE\obj\Debug\net6.0\ref\Example_IF_ELSE.dll
