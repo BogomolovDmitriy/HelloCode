@@ -1,0 +1,15 @@
+D:\Programs\Обучение программированию\Новая папка\Example_Div\bin\Debug\net6.0\Example_Div.exe
+D:\Programs\Обучение программированию\Новая папка\Example_Div\bin\Debug\net6.0\Example_Div.deps.json
+D:\Programs\Обучение программированию\Новая папка\Example_Div\bin\Debug\net6.0\Example_Div.runtimeconfig.json
+D:\Programs\Обучение программированию\Новая папка\Example_Div\bin\Debug\net6.0\Example_Div.dll
+D:\Programs\Обучение программированию\Новая папка\Example_Div\bin\Debug\net6.0\Example_Div.pdb
+D:\Programs\Обучение программированию\Новая папка\Example_Div\obj\Debug\net6.0\Example_Div.csproj.AssemblyReference.cache
+D:\Programs\Обучение программированию\Новая папка\Example_Div\obj\Debug\net6.0\Example_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Обучение программированию\Новая папка\Example_Div\obj\Debug\net6.0\Example_Div.AssemblyInfoInputs.cache
+D:\Programs\Обучение программированию\Новая папка\Example_Div\obj\Debug\net6.0\Example_Div.AssemblyInfo.cs
+D:\Programs\Обучение программированию\Новая папка\Example_Div\obj\Debug\net6.0\Example_Div.csproj.CoreCompileInputs.cache
+D:\Programs\Обучение программированию\Новая папка\Example_Div\obj\Debug\net6.0\Example_Div.dll
+D:\Programs\Обучение программированию\Новая папка\Example_Div\obj\Debug\net6.0\refint\Example_Div.dll
+D:\Programs\Обучение программированию\Новая папка\Example_Div\obj\Debug\net6.0\Example_Div.pdb
+D:\Programs\Обучение программированию\Новая папка\Example_Div\obj\Debug\net6.0\Example_Div.genruntimeconfig.cache
+D:\Programs\Обучение программированию\Новая папка\Example_Div\obj\Debug\net6.0\ref\Example_Div.dll
